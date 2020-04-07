@@ -396,7 +396,6 @@ vendor/firmware/goodix-tianma-gt9xx-6009-0001-evert.bin
 # DRM
 vendor/bin/qseecomd
 vendor/lib/libcppf.so
-vendor/lib/liboemcrypto.so
 vendor/lib/libQSEEComAPI.so
 vendor/lib64/libdrmfs.so
 vendor/lib64/libdrmtime.so
